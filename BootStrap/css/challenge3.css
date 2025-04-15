@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* Part Three CSS */
+.orange-col {
+    background-color: orange;
+    color: black;
+}
+
+.navy-col {
+    background-color: navy;
+    color: white;
+}
+
+.maroon-col {
+    background-color: maroon;
+    color: white;
+}
