@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Part Two Custom Classes */
+.yellow-col {
+    background-color: gold;
+    color: black;
+}
+
+.teal-col {
+    background-color: teal;
+    color: white;
+}
+
+.purple-col {
+    background-color: rebeccapurple;
+    color: white;
+}
